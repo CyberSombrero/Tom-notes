@@ -10,7 +10,7 @@ tags:
 
 ## Coisas a fazer
 - [x] Terminar a [[lista 1 de [[MD]]]] ✅ 2023-11-05
-- [ ] teste
-- [ ] teste
+- [ ] Terminar a [[lista 1 de [[AVLC]]]]
+- [ ] Terminar a [[lista 1 de [[IP]]
 - [ ] teste
 - [ ] 
